@@ -1,0 +1,5 @@
+This is going to be a GO library for uploading files to google drive.
+
+It will upload to google drive and not allow for duplicate files treating it more like a traditional file system
+
+It will also have redis support.
